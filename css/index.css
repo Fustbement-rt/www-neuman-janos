@@ -1,0 +1,11 @@
+body {
+	min-height: 100vh;
+}
+
+main {
+	min-height: 60vh;
+}
+
+.vvv-dash {
+	list-style: ' - ';
+}
